@@ -15,6 +15,7 @@ int main()
  f.push_front(22);
  f.sort();
  f.unique();
+ 
  for(auto p:f)
  {
     cout<<p<<"\t";
